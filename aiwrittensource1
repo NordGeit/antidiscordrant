@@ -1,0 +1,39 @@
+Look, I am TIRED of every single project, tool, or community telling me "just join our Discord for help!" as if that's some kind of universal solution. It's NOT.
+
+Discord was made for GAMERS to chat while playing. It was *never* designed to be the primary repository for critical documentation or the ONLY way to access support for professional tools!
+
+Where do I even start with why this is terrible?
+
+First - It's NOT public! Discord messages disappear into the void! Try finding that crucial piece of information someone shared 3 months ago. Good luck! The search function is *abysmal* at best, and conversations get buried under mountains of random chatter and emoji spam within HOURS.
+
+Second - Not everyone wants to create YET ANOTHER account on YET ANOTHER platform just to download a file or ask a simple question! Google can't index it. You can't link directly to helpful answers without forcing people to log in!
+
+Third - It's a MASSIVE accessibility problem! Discord is often blocked in corporate environments, schools, and certain countries. What happens when someone CAN'T access your precious server? They're just out of luck?
+
+Fourth - Security concerns! Discord has had its share of breaches and vulnerabilities. Is this REALLY where you want to host your important files and share sensitive troubleshooting information? Help channels are CRAWLING with malware disguised as "tools" and fake Nitro links. Newbies are just a few clicks away from ransomware EVERY TIME.
+
+Fifth - The corporate rot has ALREADY started! In April 2025, Discord replaced co-founder Jason Citron with Humam Sakhnini - the former President of King (yes, the Candy Crush people) and Vice Chairman at Activision Blizzard. This wasn't an accident. They're openly flirting with going public and pursuing new "monetization strategies." Voice already throttles if you're not verified. It's just a matter of time before you need Nitro to copy-paste more than once a day!
+
+Sixth - Platform-wide moderation is a sword hanging over your head! Discord doesn't just nuke servers, it bans users across ALL servers. One false report, one bot detection error, and you're OUT. No appeal. No backup. All it takes is ONE Discord admin having a bad day after their fifth bag of Cheetos to decide your server violates some vague policy, and POOF! Your entire knowledge base is GONE! *Vanished into nothing!*
+
+Seventh - IT BREAKS! February 2025: major outage, nobody could log in. April 2025: bot API melted down. Half the servers went dark. One Discord hiccup and your entire help system vanishes.
+
+Eighth - LEGAL DANGER! Nintendo subpoenaed Discord for user info AND DISCORD COMPLIED. If your community hosts files, images, or leaks, they're one takedown away from being gone forever.
+
+What else could you use? ANYTHING ELSE:
+Matrix: federated, self-hostable, exportable logs
+IRC: old, but logs are plain text and work with grep
+Telegram: actual native app, not Electron trash. Public channels readable without an account
+Cloud storage? *Take your pick:* 
+Mega, Google Drive, pCloud, Mediafire, Dropbox, iCloud, OneDrive, even plain FTP
+
+Put your documentation on a proper website. Host your files on a reliable, accessible platform. Create a knowledge base or forum that can be indexed by search engines.
+
+Stop forcing people into your Discord server when all they want is to use your supposedly "open" project! It's lazy, it's exclusionary, and it's making the internet WORSE.
+
+If you want a Discord as a *supplement* for your community? Fine. But it should NEVER be the primary or only way to get help or access basic resources. Ever.
+
+Next time someone says "join the Discord," I'm gonna say:
+"No. Put your files on the internet like a normal human being."
+
+That's it.
